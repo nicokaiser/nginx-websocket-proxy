@@ -20,6 +20,12 @@ This is a typical scenario given by [Engine.IO](https://github.com/LearnBoost/en
 * [WebSocket Proxy with Load Balancing](load-balancing.conf) – like previous example, but with three backend servers, with one client always being forwarded to the same backend
 
 
+## See Also
+
+* http://nginx.org/en/docs/http/websocket.html
+* [Nginx Server Configs](https://github.com/h5bp/server-configs-nginx) – Great resource for nginx server config documentation
+
+
 ## Author
 
 **Nico Kaiser**
